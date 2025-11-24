@@ -47,7 +47,7 @@ This solution leverages AWS’ serverless stack to handle images seamlessly:
 
 Here is the high-level architecture of the system:
 
-![Architecture Diagram](Blank diagram1.png)
+![Architecture Diagram](Blank%20diagram1.png)
 
 ---
 
